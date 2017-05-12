@@ -2,9 +2,6 @@ package solution;
 
 import java.util.Scanner;
 
-/**
- * Created by Alex on 07.05.2017.
- */
 public class Day25 {
 
     public static void main(String[] args) {
